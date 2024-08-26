@@ -1,4 +1,4 @@
-# Email Checker
+# QuickInbox
 
 This Python script generates a temporary email address, checks for new emails, and saves the content of each email to a file named after the sender. The script also includes a progress indicator and handles termination signals to clean up the email address.
 
