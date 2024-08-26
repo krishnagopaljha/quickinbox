@@ -8,7 +8,7 @@ This Python script generates a temporary email address, checks for new emails, a
 - Checks the inbox for new messages.
 - Saves email content to a file named after the sender.
 - Displays a progress indicator with dots.
-- Handles Ctrl+C to clean up the email address.
+- Have in built email disposal feature triggered by CTRL+C.
 
 ## Requirements
 
