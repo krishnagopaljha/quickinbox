@@ -20,7 +20,7 @@ This Python script generates a temporary email address, checks for new emails, a
 1. Clone this repository:
     ```sh
     git clone https://github.com/krishnagopaljha/quickinbox.git
-    cd email-checker
+    cd quickinbox
     ```
 
 2. Install the required dependencies:
